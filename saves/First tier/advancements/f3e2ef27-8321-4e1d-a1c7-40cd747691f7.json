@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2019-01-06 19:35:53 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2019-01-06 18:31:31 +0100"
