@@ -508,3 +508,17 @@ Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$Missin
 [17:16:15] [Server thread/INFO]: Saving chunks for level 'First tier'/Storage Cell
 [17:16:29] [Client thread/INFO]: [CHAT] Editing Mode for ImACrazyFIsh Enabled
 [17:16:51] [Server thread/INFO]: Saved 0 stages for ImACrazyFIsh.
+[17:17:34] [Client thread/INFO]: Stopping!
+[17:17:35] [Server thread/INFO]: Stopping server
+[17:17:35] [Server thread/INFO]: Saving players
+[17:17:35] [Server thread/INFO]: Saved 0 stages for ImACrazyFIsh.
+[17:17:35] [Server thread/INFO]: Saving worlds
+[17:17:35] [Server thread/INFO]: Saving chunks for level 'First tier'/overworld
+[17:17:35] [Netty Local Client IO #0/INFO]: Reset configs to client values for com.enderio.core.common.config.ConfigHandler
+[17:17:35] [Server thread/INFO]: Saving chunks for level 'First tier'/Storage Cell
+[17:17:35] [Server thread/INFO]: Unloading dimension 0
+[17:17:35] [Server thread/INFO]: Unloading dimension 2
+[17:17:36] [Server thread/INFO]: Applying holder lookups
+[17:17:36] [Server thread/INFO]: Holder lookups applied
+[17:17:36] [Client thread/INFO]: SoundSystem shutting down...
+[17:17:36] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
