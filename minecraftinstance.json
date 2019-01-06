@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "0001-01-01T00:00:00",
+  "lastPlayed": "2019-01-06T15:54:16.1719196Z",
   "manifest": {
     "minecraft": {
       "version": "1.12.2",
@@ -4551,6 +4551,131 @@
       "dateInstalled": "2019-01-06T15:39:52.3512189Z",
       "dateUpdated": "2019-01-06T15:39:52.3562202Z",
       "dateLastUpdateAttempted": "2019-01-06T15:39:52.3562202Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 237167,
+      "gameInstanceID": "2b60e59b-1b5f-4760-bbae-58f77a12da54",
+      "installedFile": {
+        "id": 2648347,
+        "fileName": "FTBLib-5.4.0.73.jar",
+        "fileNameOnDisk": "FTBLib-5.4.0.73.jar",
+        "fileDate": "2018-12-15T10:09:05.047",
+        "fileLength": 885618,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2648/347/FTBLib-5.4.0.73.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 3615700744
+          },
+          {
+            "folderName": "com",
+            "fimgerprint": 872949974
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 3856577109
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 1468686229
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 1860658652
+          }
+        ],
+        "packageFingerprint": 3313709878,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-01-06T15:40:45.3747865Z",
+      "dateUpdated": "2019-01-06T15:40:45.3778021Z",
+      "dateLastUpdateAttempted": "2019-01-06T15:40:45.3778021Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 289412,
+      "gameInstanceID": "2b60e59b-1b5f-4760-bbae-58f77a12da54",
+      "installedFile": {
+        "id": 2653643,
+        "fileName": "FTBQuests-1.4.0.109.jar",
+        "fileNameOnDisk": "FTBQuests-1.4.0.109.jar",
+        "fileDate": "2018-12-29T15:55:19.933",
+        "fileLength": 764119,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2653/643/FTBQuests-1.4.0.109.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "addonId": 237167,
+            "type": 1
+          },
+          {
+            "addonId": 278398,
+            "type": 2
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 2360168585
+          },
+          {
+            "folderName": "com",
+            "fimgerprint": 1382474416
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 1157298528
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 2381346384
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 2432827650
+          }
+        ],
+        "packageFingerprint": 4260914936,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-01-06T15:40:45.683696Z",
+      "dateUpdated": "2019-01-06T15:40:45.6896935Z",
+      "dateLastUpdateAttempted": "2019-01-06T15:40:45.6896935Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
