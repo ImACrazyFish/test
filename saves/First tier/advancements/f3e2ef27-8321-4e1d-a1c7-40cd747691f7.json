@@ -1,0 +1,209 @@
+{
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2019-01-06 18:31:31 +0100"
+    },
+    "done": true
+  },
+  "betterwithmods:steel_anvil": {
+    "criteria": {
+      "has_item": "2019-01-06 19:02:10 +0100"
+    },
+    "done": true
+  },
+  "betterwithmods:glue": {
+    "criteria": {
+      "has_item": "2019-01-06 18:51:04 +0100"
+    },
+    "done": true
+  },
+  "betterwithmods:axle": {
+    "criteria": {
+      "has_item": "2019-01-06 19:01:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2019-01-06 18:33:51 +0100"
+    },
+    "done": true
+  },
+  "betterwithmods:crucible": {
+    "criteria": {
+      "has_items": "2019-01-06 19:02:12 +0100"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2019-01-06 19:35:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2019-01-06 18:31:31 +0100"
+    },
+    "done": true
+  },
+  "betterwithmods:hand_crank": {
+    "criteria": {
+      "has_item": "2019-01-06 19:01:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2019-01-06 18:31:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2019-01-06 18:31:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2019-01-06 18:31:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2019-01-06 19:29:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ice_flats": "2019-01-06 17:37:29 +0100",
+      "frozen_river": "2019-01-06 17:37:51 +0100",
+      "forest": "2019-01-06 17:09:55 +0100",
+      "swampland": "2019-01-06 17:32:24 +0100",
+      "birch_forest": "2019-01-06 17:31:55 +0100",
+      "beaches": "2019-01-06 17:32:47 +0100",
+      "extreme_hills_with_trees": "2019-01-06 17:28:49 +0100",
+      "desert_hills": "2019-01-06 17:12:13 +0100",
+      "forest_hills": "2019-01-06 17:10:23 +0100",
+      "savanna": "2019-01-06 17:12:24 +0100",
+      "plains": "2019-01-06 17:38:50 +0100",
+      "jungle_hills": "2019-01-06 17:50:13 +0100",
+      "jungle_edge": "2019-01-06 17:38:48 +0100",
+      "savanna_rock": "2019-01-06 17:35:23 +0100",
+      "birch_forest_hills": "2019-01-06 17:32:00 +0100",
+      "ocean": "2019-01-06 17:32:23 +0100",
+      "extreme_hills": "2019-01-06 17:24:20 +0100",
+      "roofed_forest": "2019-01-06 18:01:45 +0100",
+      "cold_beach": "2019-01-06 17:38:07 +0100",
+      "river": "2019-01-06 17:13:54 +0100",
+      "jungle": "2019-01-06 17:38:43 +0100",
+      "desert": "2019-01-06 17:12:04 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2019-01-06 17:11:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2019-01-06 18:33:51 +0100"
+    },
+    "done": true
+  },
+  "betterwithmods:hibachi": {
+    "criteria": {
+      "has_item": "2019-01-06 19:03:57 +0100"
+    },
+    "done": true
+  },
+  "betterwithmods:horizontal_windmill": {
+    "criteria": {
+      "has_item": "2019-01-06 19:04:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2019-01-06 17:58:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2019-01-06 17:58:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2019-01-06 18:30:49 +0100"
+    },
+    "done": true
+  },
+  "betterwithmods:gearbox": {
+    "criteria": {
+      "has_item": "2019-01-06 19:01:41 +0100"
+    },
+    "done": true
+  },
+  "betterwithmods:millstone": {
+    "criteria": {
+      "has_item": "2019-01-06 19:01:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2019-01-06 18:33:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2019-01-06 18:31:31 +0100"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/presses": {
+    "criteria": {
+      "eng": "2019-01-06 17:13:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2019-01-06 17:58:04 +0100"
+    },
+    "done": true
+  },
+  "betterwithmods:root": {
+    "criteria": {
+      "has_item": "2019-01-06 18:33:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2019-01-06 18:31:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2019-01-06 18:33:51 +0100"
+    },
+    "done": true
+  },
+  "betterwithmods:bellows": {
+    "criteria": {
+      "has_item": "2019-01-06 19:03:55 +0100"
+    },
+    "done": true
+  }
+}

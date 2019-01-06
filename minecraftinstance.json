@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-01-06T15:54:16.1719196Z",
+  "lastPlayed": "2019-01-06T18:32:13.0151608Z",
   "manifest": {
     "minecraft": {
       "version": "1.12.2",
@@ -741,6 +741,21 @@
       "fileSize": 430351
     },
     {
+      "folderName": "FTBQuests-1.4.0.109.jar",
+      "fingerprint": 4260914936,
+      "fileDateHash": 2403215003,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4260914936
+      ],
+      "status": 1,
+      "timestamp": "2019-01-06T15:54:29.6917379Z",
+      "lastWriteTimeUtc": "2019-01-06T15:40:45.6827001Z",
+      "queryTimestamp": "2019-01-06T15:54:29.8466454Z",
+      "fileCount": 1,
+      "fileSize": 764119
+    },
+    {
       "folderName": "tinkersjei-1.0.jar",
       "fingerprint": 2894672098,
       "fileDateHash": 3089004469,
@@ -831,6 +846,21 @@
       "fileSize": 3217313
     },
     {
+      "folderName": "FTBLib-5.4.0.73.jar",
+      "fingerprint": 3313709878,
+      "fileDateHash": 703801492,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3313709878
+      ],
+      "status": 1,
+      "timestamp": "2019-01-06T15:54:29.6867382Z",
+      "lastWriteTimeUtc": "2019-01-06T15:40:45.3737881Z",
+      "queryTimestamp": "2019-01-06T15:54:29.8476448Z",
+      "fileCount": 1,
+      "fileSize": 885618
+    },
+    {
       "folderName": "twilightforest-1.12.2-3.8.689-universal.jar",
       "fingerprint": 290977512,
       "fileDateHash": 3641758952,
@@ -859,6 +889,21 @@
       "queryTimestamp": "2019-01-06T15:38:48.7051823Z",
       "fileCount": 1,
       "fileSize": 13641200
+    },
+    {
+      "folderName": "OreExcavation-1.4.133.jar",
+      "fingerprint": 1337920336,
+      "fileDateHash": 2286896720,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1337920336
+      ],
+      "status": 1,
+      "timestamp": "2019-01-06T15:54:29.6967325Z",
+      "lastWriteTimeUtc": "2019-01-06T15:39:52.3512189Z",
+      "queryTimestamp": "2019-01-06T15:54:29.8476448Z",
+      "fileCount": 1,
+      "fileSize": 177877
     },
     {
       "folderName": "Mekanism-1.12.2-9.4.13.349.jar",
@@ -4676,6 +4721,200 @@
       "dateInstalled": "2019-01-06T15:40:45.683696Z",
       "dateUpdated": "2019-01-06T15:40:45.6896935Z",
       "dateLastUpdateAttempted": "2019-01-06T15:40:45.6896935Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 294335,
+      "gameInstanceID": "2b60e59b-1b5f-4760-bbae-58f77a12da54",
+      "installedFile": {
+        "id": 2624990,
+        "fileName": "BetterWithLib-1.12-1.5.jar",
+        "fileNameOnDisk": "BetterWithLib-1.12-1.5.jar",
+        "fileDate": "2018-10-06T17:44:38.953",
+        "fileLength": 21003,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2624/990/BetterWithLib-1.12-1.5.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 1497115819
+          },
+          {
+            "folderName": "betterwithmods",
+            "fimgerprint": 3388433172
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 3704095228
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 3273911401
+          }
+        ],
+        "packageFingerprint": 2872502765,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-01-06T17:04:11.0579484Z",
+      "dateUpdated": "2019-01-06T17:04:11.0809339Z",
+      "dateLastUpdateAttempted": "2019-01-06T17:04:11.0809339Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 246760,
+      "gameInstanceID": "2b60e59b-1b5f-4760-bbae-58f77a12da54",
+      "installedFile": {
+        "id": 2650398,
+        "fileName": "BetterWithMods-1.12-2.3.20-1027.jar",
+        "fileNameOnDisk": "BetterWithMods-1.12-2.3.20-1027.jar",
+        "fileDate": "2018-12-20T03:47:01.813",
+        "fileLength": 5074707,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2650/398/BetterWithMods-1.12-2.3.20-1027.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "addonId": 224472,
+            "type": 2
+          },
+          {
+            "addonId": 267602,
+            "type": 2
+          },
+          {
+            "addonId": 283447,
+            "type": 2
+          },
+          {
+            "addonId": 294335,
+            "type": 1
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 3762249461
+          },
+          {
+            "folderName": "betterwithmods",
+            "fimgerprint": 2936434444
+          },
+          {
+            "folderName": "proxypack.mcmeta",
+            "fimgerprint": 2525296592
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 792915578
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 1818350411
+          }
+        ],
+        "packageFingerprint": 3783214900,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-01-06T17:04:12.9008548Z",
+      "dateUpdated": "2019-01-06T17:04:12.9388342Z",
+      "dateLastUpdateAttempted": "2019-01-06T17:04:12.9388342Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 268326,
+      "gameInstanceID": "2b60e59b-1b5f-4760-bbae-58f77a12da54",
+      "installedFile": {
+        "id": 2646529,
+        "fileName": "Better With Addons-0.47-hotfix.jar",
+        "fileNameOnDisk": "Better With Addons-0.47-hotfix.jar",
+        "fileDate": "2018-12-11T13:46:22.243",
+        "fileLength": 2015847,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2646/529/Better With Addons-0.47-hotfix.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "addonId": 246760,
+            "type": 1
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 3452068656
+          },
+          {
+            "folderName": "betterwithaddons",
+            "fimgerprint": 3184005987
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 3152715461
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 427819714
+          },
+          {
+            "folderName": "proxypack.mcmeta",
+            "fimgerprint": 261219183
+          }
+        ],
+        "packageFingerprint": 3388718004,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-01-06T17:04:15.9370685Z",
+      "dateUpdated": "2019-01-06T17:04:15.9420659Z",
+      "dateLastUpdateAttempted": "2019-01-06T17:04:15.9420659Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
