@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-01-06T20:15:12.2004083Z",
+  "lastPlayed": "2019-01-06T22:04:45.559133Z",
   "manifest": {
     "minecraft": {
       "version": "1.12.2",
@@ -366,6 +366,21 @@
       "fileSize": 77156
     },
     {
+      "folderName": "toolprogression-1.12.2-1.6.5.jar",
+      "fingerprint": 2277040622,
+      "fileDateHash": 2535868762,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2277040622
+      ],
+      "status": 1,
+      "timestamp": "2019-01-06T20:54:22.7722589Z",
+      "lastWriteTimeUtc": "2019-01-06T20:52:15.1198767Z",
+      "queryTimestamp": "2019-01-06T20:54:23.128054Z",
+      "fileCount": 1,
+      "fileSize": 96683
+    },
+    {
       "folderName": "Draconic-Evolution-1.12.2-2.3.18.329-universal.jar",
       "fingerprint": 2450718879,
       "fileDateHash": 3655864740,
@@ -529,6 +544,21 @@
       "queryTimestamp": "2019-01-06T15:38:48.7021841Z",
       "fileCount": 1,
       "fileSize": 23951311
+    },
+    {
+      "folderName": "Ceramics-1.12-1.3.6.jar",
+      "fingerprint": 2398832327,
+      "fileDateHash": 288297581,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2398832327
+      ],
+      "status": 1,
+      "timestamp": "2019-01-06T20:54:22.7692612Z",
+      "lastWriteTimeUtc": "2019-01-06T20:49:37.4595935Z",
+      "queryTimestamp": "2019-01-06T20:54:23.1300528Z",
+      "fileCount": 1,
+      "fileSize": 394821
     },
     {
       "folderName": "BetterWithLib-1.12-1.5.jar",
@@ -994,6 +1024,245 @@
       "queryTimestamp": "2019-01-06T15:38:48.7061818Z",
       "fileCount": 1,
       "fileSize": 465363
+    },
+    {
+      "folderName": "New World",
+      "fingerprint": 0,
+      "fileDateHash": 1713848603,
+      "sectionID": 17,
+      "individualFingerprints": null,
+      "status": 3,
+      "timestamp": "2019-01-06T20:54:22.7742587Z",
+      "lastWriteTimeUtc": "2019-01-06T16:03:45.9445805Z",
+      "queryTimestamp": "0001-01-01T00:00:00",
+      "fileCount": 16,
+      "fileSize": 0
+    },
+    {
+      "folderName": "First tier",
+      "fingerprint": 4238861838,
+      "fileDateHash": 6203746,
+      "sectionID": 17,
+      "individualFingerprints": [
+        10091876,
+        22664056,
+        62127619,
+        74678271,
+        79513522,
+        102910534,
+        103519121,
+        116363031,
+        131346066,
+        231462620,
+        243931158,
+        305979350,
+        316610711,
+        336751160,
+        390551933,
+        406742459,
+        415546807,
+        422666330,
+        476131179,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        493619244,
+        500036828,
+        515551740,
+        542614299,
+        644062685,
+        644333549,
+        696809508,
+        740408928,
+        752648542,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        832170072,
+        841506176,
+        883465736,
+        895559248,
+        929830875,
+        988152958,
+        996505673,
+        1012150928,
+        1029226316,
+        1058429041,
+        1061329750,
+        1086840090,
+        1093212349,
+        1103106307,
+        1108172431,
+        1127407283,
+        1201893278,
+        1205837790,
+        1218738404,
+        1259612046,
+        1262077856,
+        1263200198,
+        1312304264,
+        1313685641,
+        1352716870,
+        1534630216,
+        1582971302,
+        1594262269,
+        1630604129,
+        1632209680,
+        1653948316,
+        1664594782,
+        1671135595,
+        1790912064,
+        1796530538,
+        1830094803,
+        1849211214,
+        1862040380,
+        1935813844,
+        1978423499,
+        1981211636,
+        1981211636,
+        1995920059,
+        1996012193,
+        2002633367,
+        2007030448,
+        2040393235,
+        2040393235,
+        2040393235,
+        2040393235,
+        2040393235,
+        2040393235,
+        2040393235,
+        2082403605,
+        2107068289,
+        2107174714,
+        2110490592,
+        2152552204,
+        2166000590,
+        2204345267,
+        2218394631,
+        2303740412,
+        2313722287,
+        2342756446,
+        2367367605,
+        2429775858,
+        2433847172,
+        2466835931,
+        2474488909,
+        2522509285,
+        2523553585,
+        2546409946,
+        2547429680,
+        2577705530,
+        2582994873,
+        2621005239,
+        2636564414,
+        2636841346,
+        2643933950,
+        2700104280,
+        2706987491,
+        2738374856,
+        2754003987,
+        2815053924,
+        2824496678,
+        2840914924,
+        2841125481,
+        2899804963,
+        2908206628,
+        2909302659,
+        2939774324,
+        2950974789,
+        2952173985,
+        2957698103,
+        2994972432,
+        2997522213,
+        3062248619,
+        3074486861,
+        3100548320,
+        3111418382,
+        3132964566,
+        3161207626,
+        3161847817,
+        3184406658,
+        3194823384,
+        3195534152,
+        3198013056,
+        3206438493,
+        3211550772,
+        3225874037,
+        3239073887,
+        3242889089,
+        3273216469,
+        3306307476,
+        3336580142,
+        3374155542,
+        3387776925,
+        3424880800,
+        3446546309,
+        3455124861,
+        3457121231,
+        3470120581,
+        3482648444,
+        3509904982,
+        3552002807,
+        3579047085,
+        3589696624,
+        3607898669,
+        3627503038,
+        3633482493,
+        3635755494,
+        3639874522,
+        3685670663,
+        3697755295,
+        3702711749,
+        3713136588,
+        3714565609,
+        3717154404,
+        3727798604,
+        3738676544,
+        3751676897,
+        3806920674,
+        3810639924,
+        3840984900,
+        3876168567,
+        3879213424,
+        3920601587,
+        3951339341,
+        3979264949,
+        3982121402,
+        3986802103,
+        4047036508,
+        4061847243,
+        4073264881,
+        4082707424,
+        4117838293,
+        4128045426,
+        4131428188,
+        4136925869,
+        4138138586,
+        4158252557,
+        4164408003,
+        4165026701,
+        4187375553,
+        4216555424,
+        4235508956,
+        4262249039,
+        4273428655
+      ],
+      "status": 1,
+      "timestamp": "2019-01-06T20:49:31.549636Z",
+      "lastWriteTimeUtc": "2019-01-06T20:49:10.1198334Z",
+      "queryTimestamp": "2019-01-06T20:49:39.5581776Z",
+      "fileCount": 21,
+      "fileSize": 0
     },
     {
       "folderName": "WailaStages-1.12.2-2.0.23.jar",
@@ -4842,6 +5111,329 @@
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
       "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 294335,
+      "gameInstanceID": "95dd39fb-e8b5-4c4d-af84-b400477deac9",
+      "installedFile": {
+        "id": 2624990,
+        "fileName": "BetterWithLib-1.12-1.5.jar",
+        "fileNameOnDisk": "BetterWithLib-1.12-1.5.jar",
+        "fileDate": "2018-10-06T17:44:38.953",
+        "fileLength": 21003,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2624/990/BetterWithLib-1.12-1.5.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 1497115819
+          },
+          {
+            "folderName": "betterwithmods",
+            "fimgerprint": 3388433172
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 3704095228
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 3273911401
+          }
+        ],
+        "packageFingerprint": 2872502765,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-01-06T20:49:40.166901Z",
+      "dateUpdated": "2018-01-06T20:49:40.166901Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 268326,
+      "gameInstanceID": "95dd39fb-e8b5-4c4d-af84-b400477deac9",
+      "installedFile": {
+        "id": 2646529,
+        "fileName": "Better With Addons-0.47-hotfix.jar",
+        "fileNameOnDisk": "Better With Addons-0.47-hotfix.jar",
+        "fileDate": "2018-12-11T13:46:22.243",
+        "fileLength": 2015847,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2646/529/Better With Addons-0.47-hotfix.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "addonId": 246760,
+            "type": 1
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 3452068656
+          },
+          {
+            "folderName": "betterwithaddons",
+            "fimgerprint": 3184005987
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 3152715461
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 427819714
+          },
+          {
+            "folderName": "proxypack.mcmeta",
+            "fimgerprint": 261219183
+          }
+        ],
+        "packageFingerprint": 3388718004,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-01-06T20:49:40.166901Z",
+      "dateUpdated": "2018-01-06T20:49:40.166901Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 246760,
+      "gameInstanceID": "95dd39fb-e8b5-4c4d-af84-b400477deac9",
+      "installedFile": {
+        "id": 2650398,
+        "fileName": "BetterWithMods-1.12-2.3.20-1027.jar",
+        "fileNameOnDisk": "BetterWithMods-1.12-2.3.20-1027.jar",
+        "fileDate": "2018-12-20T03:47:01.813",
+        "fileLength": 5074707,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2650/398/BetterWithMods-1.12-2.3.20-1027.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "addonId": 224472,
+            "type": 2
+          },
+          {
+            "addonId": 267602,
+            "type": 2
+          },
+          {
+            "addonId": 283447,
+            "type": 2
+          },
+          {
+            "addonId": 294335,
+            "type": 1
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 3762249461
+          },
+          {
+            "folderName": "betterwithmods",
+            "fimgerprint": 2936434444
+          },
+          {
+            "folderName": "proxypack.mcmeta",
+            "fimgerprint": 2525296592
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 792915578
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 1818350411
+          }
+        ],
+        "packageFingerprint": 3783214900,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-01-06T20:49:40.1679001Z",
+      "dateUpdated": "2018-01-06T20:49:40.1679001Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 266550,
+      "gameInstanceID": "95dd39fb-e8b5-4c4d-af84-b400477deac9",
+      "installedFile": {
+        "id": 2653958,
+        "fileName": "toolprogression-1.12.2-1.6.5.jar",
+        "fileNameOnDisk": "toolprogression-1.12.2-1.6.5.jar",
+        "fileDate": "2018-12-30T10:49:57.367",
+        "fileLength": 96683,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2653/958/toolprogression-1.12.2-1.6.5.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 743103389
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 1150001861
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 3136225905
+          },
+          {
+            "folderName": "tyra314",
+            "fimgerprint": 2666826065
+          }
+        ],
+        "packageFingerprint": 2277040622,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-01-06T20:52:15.1198767Z",
+      "dateUpdated": "2019-01-06T20:52:15.1228686Z",
+      "dateLastUpdateAttempted": "2019-01-06T20:52:15.1228686Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 270466,
+      "gameInstanceID": "95dd39fb-e8b5-4c4d-af84-b400477deac9",
+      "installedFile": {
+        "id": 2603890,
+        "fileName": "HorsePower-1.12.2-2.6.1.68.jar",
+        "fileNameOnDisk": "HorsePower-1.12.2-2.6.1.68.jar",
+        "fileDate": "2018-08-16T00:12:29.843",
+        "fileLength": 462776,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2603/890/HorsePower-1.12.2-2.6.1.68.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "addonId": 73488,
+            "type": 2
+          },
+          {
+            "addonId": 238222,
+            "type": 2
+          },
+          {
+            "addonId": 239197,
+            "type": 2
+          },
+          {
+            "addonId": 245211,
+            "type": 2
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 367016438
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 2475970163
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 1523319995
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 3030954162
+          },
+          {
+            "folderName": "se",
+            "fimgerprint": 209257631
+          }
+        ],
+        "packageFingerprint": 3069471944,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-01-06T22:04:35.7436156Z",
+      "dateUpdated": "2019-01-06T22:04:35.7496262Z",
+      "dateLastUpdateAttempted": "2019-01-06T22:04:35.7496262Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
