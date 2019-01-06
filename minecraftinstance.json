@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-01-06T16:07:55.9116884Z",
+  "lastPlayed": "2019-01-06T16:18:57.6007647Z",
   "manifest": {
     "minecraft": {
       "version": "1.12.2",
@@ -1374,7 +1374,7 @@
       "installedFile": {
         "id": 2630883,
         "fileName": "TConstruct-1.12.2-2.11.0.106.jar",
-        "fileNameOnDisk": "TConstruct-1.12.2-2.11.0.106.jar.disabled",
+        "fileNameOnDisk": "TConstruct-1.12.2-2.11.0.106.jar",
         "fileDate": "2018-10-23T18:41:57.077",
         "fileLength": 3921062,
         "releaseType": 1,
@@ -4721,6 +4721,135 @@
       "dateInstalled": "2019-01-06T15:40:45.683696Z",
       "dateUpdated": "2019-01-06T15:40:45.6896935Z",
       "dateLastUpdateAttempted": "2019-01-06T15:40:45.6896935Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 294335,
+      "gameInstanceID": "2b60e59b-1b5f-4760-bbae-58f77a12da54",
+      "installedFile": {
+        "id": 2624990,
+        "fileName": "BetterWithLib-1.12-1.5.jar",
+        "fileNameOnDisk": "BetterWithLib-1.12-1.5.jar",
+        "fileDate": "2018-10-06T17:44:38.953",
+        "fileLength": 21003,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2624/990/BetterWithLib-1.12-1.5.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 1497115819
+          },
+          {
+            "folderName": "betterwithmods",
+            "fimgerprint": 3388433172
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 3704095228
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 3273911401
+          }
+        ],
+        "packageFingerprint": 2872502765,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-01-06T17:04:11.0579484Z",
+      "dateUpdated": "2019-01-06T17:04:11.0809339Z",
+      "dateLastUpdateAttempted": "2019-01-06T17:04:11.0809339Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 246760,
+      "gameInstanceID": "2b60e59b-1b5f-4760-bbae-58f77a12da54",
+      "installedFile": {
+        "id": 2650398,
+        "fileName": "BetterWithMods-1.12-2.3.20-1027.jar",
+        "fileNameOnDisk": "BetterWithMods-1.12-2.3.20-1027.jar",
+        "fileDate": "2018-12-20T03:47:01.813",
+        "fileLength": 5074707,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2650/398/BetterWithMods-1.12-2.3.20-1027.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "addonId": 224472,
+            "type": 2
+          },
+          {
+            "addonId": 267602,
+            "type": 2
+          },
+          {
+            "addonId": 283447,
+            "type": 2
+          },
+          {
+            "addonId": 294335,
+            "type": 1
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 3762249461
+          },
+          {
+            "folderName": "betterwithmods",
+            "fimgerprint": 2936434444
+          },
+          {
+            "folderName": "proxypack.mcmeta",
+            "fimgerprint": 2525296592
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 792915578
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 1818350411
+          }
+        ],
+        "packageFingerprint": 3783214900,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-01-06T17:04:12.9008548Z",
+      "dateUpdated": "2019-01-06T17:04:12.9388342Z",
+      "dateLastUpdateAttempted": "2019-01-06T17:04:12.9388342Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
