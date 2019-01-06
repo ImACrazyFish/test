@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-01-06T16:18:57.6007647Z",
+  "lastPlayed": "2019-01-06T17:06:57.1385954Z",
   "manifest": {
     "minecraft": {
       "version": "1.12.2",
@@ -4850,6 +4850,71 @@
       "dateInstalled": "2019-01-06T17:04:12.9008548Z",
       "dateUpdated": "2019-01-06T17:04:12.9388342Z",
       "dateLastUpdateAttempted": "2019-01-06T17:04:12.9388342Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 268326,
+      "gameInstanceID": "2b60e59b-1b5f-4760-bbae-58f77a12da54",
+      "installedFile": {
+        "id": 2646529,
+        "fileName": "Better With Addons-0.47-hotfix.jar",
+        "fileNameOnDisk": "Better With Addons-0.47-hotfix.jar",
+        "fileDate": "2018-12-11T13:46:22.243",
+        "fileLength": 2015847,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2646/529/Better With Addons-0.47-hotfix.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "addonId": 246760,
+            "type": 1
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 3452068656
+          },
+          {
+            "folderName": "betterwithaddons",
+            "fimgerprint": 3184005987
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 3152715461
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 427819714
+          },
+          {
+            "folderName": "proxypack.mcmeta",
+            "fimgerprint": 261219183
+          }
+        ],
+        "packageFingerprint": 3388718004,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-01-06T17:04:15.9370685Z",
+      "dateUpdated": "2019-01-06T17:04:15.9420659Z",
+      "dateLastUpdateAttempted": "2019-01-06T17:04:15.9420659Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
