@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2019-01-06 21:42:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2019-01-06 18:31:31 +0100"
@@ -152,6 +158,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-01-06 21:41:20 +0100"
+    },
+    "done": true
+  },
   "betterwithmods:millstone": {
     "criteria": {
       "has_item": "2019-01-06 19:01:30 +0100"
@@ -203,6 +215,12 @@
   "betterwithmods:bellows": {
     "criteria": {
       "has_item": "2019-01-06 19:03:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2019-01-06 21:42:45 +0100"
     },
     "done": true
   }

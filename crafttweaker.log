@@ -11,9 +11,9 @@
 [INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [contenttweaker], [recipeevent | crafttweaker]]
 [INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 304ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 382ms
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Wood Planks with name ct_shapeless-2047112738
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Whittled Fire Sticks with name ct_shapeless-1480355038
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wooden Axe with name ct_shaped-95609672
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Oak Wood Planks with name ct_shaped-491213056
 [AVAILABLE][CLIENT][INFO] Adding 1 Cauldron Recipe(s) for Glue
 [SERVER_STARTED][CLIENT][INFO] Fixed the RecipeBook
