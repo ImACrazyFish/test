@@ -19,6 +19,7 @@ recipes.remove(<primal_tech:fire_sticks>);
 recipes.remove(<betterwithmods:cooking_pot:1>);
 //Don't touch me!
 //#Add
+recipes.addShaped(<primal_tech:wooden_hopper>, [[<ore:logWood>, null, <ore:logWood>],[<ore:logWood>, <tconstruct:wooden_hopper>, <ore:logWood>], [null, <ore:logWood>, null]]);
 recipes.addShaped(<betterwithmods:wooden_gearbox>, [[<ore:plankWood>, <ore:gearWood>, <ore:plankWood>],[<ore:gearWood>, <ore:gearStone>, <ore:gearWood>], [<ore:plankWood>, <ore:gearWood>, <ore:plankWood>]]);
 recipes.addShapedMirrored(<minecraft:stone_shovel>, [[null, <ore:stone>, null],[null, <betterwithmods:material:10>, null], [null, <betterwithmods:material:10>, null]]);
 recipes.addShapedMirrored(<minecraft:stone_sword>, [[null, <ore:stone>, null],[null, <ore:stone>, null], [null, <betterwithmods:material:10>, null]]);
@@ -28,7 +29,6 @@ recipes.addShaped(<minecraft:stone_pickaxe>, [[<ore:stone>, <ore:stone>, <ore:st
 recipes.addShaped(<betterwithmods:saw>, [[<ore:cobblestone>, <ore:cobblestone>, <ore:cobblestone>],[<ore:gearWood>, <betterwithmods:material:9>, <ore:gearWood>], [<ore:plankWood>, <ore:gearWood>, <ore:plankWood>]]);
 recipes.addShapeless(<betterwithmods:material:8>, [<minecraft:leather>,<ore:toolShears>]);
 recipes.addShaped(<betterwithmods:cooking_pot:1>, [[<ore:cobblestone>, <minecraft:bone>, <ore:cobblestone>],[<ore:cobblestone>, <ceramics:clay_bucket>, <ore:cobblestone>], [<ore:cobblestone>, <ore:cobblestone>, <ore:cobblestone>]]);
-recipes.addShaped(<primal_tech:wooden_hopper>, [[<minecraft:planks>, null, <minecraft:planks>],[<minecraft:planks>, <minecraft:chest>, <minecraft:planks>], [null, <minecraft:planks>, null]]);
 recipes.addShaped(<primal_tech:charcoal_hopper>, [[<primal_tech:charcoal_block>, null, <primal_tech:charcoal_block>],[<primal_tech:charcoal_block>, <primal_tech:wooden_hopper>, <primal_tech:charcoal_block>], [null, <primal_tech:charcoal_block>, null]]);
 recipes.addShaped(<primal_tech:fibre_torch>, [[null, <primal:plant_cordage>, null],[null, <minecraft:stick>, null], [null, null, null]]);
 recipes.addShaped(<primal_tech:stone_grill>, [[<minecraft:stone_slab>, <minecraft:stone_slab>, <minecraft:stone_slab>],[<ore:stone>, null, <ore:stone>], [null, <ore:stone>, null]]);

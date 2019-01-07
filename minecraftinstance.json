@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-01-06T22:04:45.559133Z",
+  "lastPlayed": "2019-01-07T21:57:18.5619052Z",
   "manifest": {
     "minecraft": {
       "version": "1.12.2",
@@ -561,21 +561,6 @@
       "fileSize": 394821
     },
     {
-      "folderName": "BetterWithLib-1.12-1.5.jar",
-      "fingerprint": 2872502765,
-      "fileDateHash": 485798700,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2872502765
-      ],
-      "status": 1,
-      "timestamp": "2019-01-06T20:49:30.5788553Z",
-      "lastWriteTimeUtc": "2019-01-06T18:42:49.1281605Z",
-      "queryTimestamp": "2019-01-06T20:49:39.5551751Z",
-      "fileCount": 1,
-      "fileSize": 21003
-    },
-    {
       "folderName": "TinkersComplement-1.12.2-0.2.3b.jar",
       "fingerprint": 2583865096,
       "fileDateHash": 1910047352,
@@ -589,6 +574,21 @@
       "queryTimestamp": "2019-01-06T15:38:48.7021841Z",
       "fileCount": 1,
       "fileSize": 167871
+    },
+    {
+      "folderName": "BetterWithLib-1.12-1.5.jar",
+      "fingerprint": 2872502765,
+      "fileDateHash": 485798700,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2872502765
+      ],
+      "status": 1,
+      "timestamp": "2019-01-06T20:49:30.5788553Z",
+      "lastWriteTimeUtc": "2019-01-06T18:42:49.1281605Z",
+      "queryTimestamp": "2019-01-06T20:49:39.5551751Z",
+      "fileCount": 1,
+      "fileSize": 21003
     },
     {
       "folderName": "MekanismTools-1.12.2-9.4.13.349.jar",
@@ -1039,6 +1039,21 @@
       "fileSize": 0
     },
     {
+      "folderName": "WailaStages-1.12.2-2.0.23.jar",
+      "fingerprint": 2078917584,
+      "fileDateHash": 3461057614,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2078917584
+      ],
+      "status": 1,
+      "timestamp": "2019-01-06T15:38:47.9386247Z",
+      "lastWriteTimeUtc": "2019-01-06T15:37:32.7021093Z",
+      "queryTimestamp": "2019-01-06T15:38:48.7061818Z",
+      "fileCount": 1,
+      "fileSize": 18422
+    },
+    {
       "folderName": "First tier",
       "fingerprint": 4238861838,
       "fileDateHash": 6203746,
@@ -1265,21 +1280,6 @@
       "fileSize": 0
     },
     {
-      "folderName": "WailaStages-1.12.2-2.0.23.jar",
-      "fingerprint": 2078917584,
-      "fileDateHash": 3461057614,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2078917584
-      ],
-      "status": 1,
-      "timestamp": "2019-01-06T15:38:47.9386247Z",
-      "lastWriteTimeUtc": "2019-01-06T15:37:32.7021093Z",
-      "queryTimestamp": "2019-01-06T15:38:48.7061818Z",
-      "fileCount": 1,
-      "fileSize": 18422
-    },
-    {
       "folderName": "CTM-MC1.12.2-0.3.3.22.jar",
       "fingerprint": 2605538404,
       "fileDateHash": 217510526,
@@ -1400,21 +1400,6 @@
       "fileSize": 152017
     },
     {
-      "folderName": "PrimalCore-1.12.2-0.6.104.jar",
-      "fingerprint": 3508313194,
-      "fileDateHash": 3226018419,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3508313194
-      ],
-      "status": 1,
-      "timestamp": "2019-01-06T15:38:47.7347606Z",
-      "lastWriteTimeUtc": "2019-01-06T15:37:52.0983583Z",
-      "queryTimestamp": "2019-01-06T15:38:48.7071815Z",
-      "fileCount": 1,
-      "fileSize": 5683907
-    },
-    {
       "folderName": "Totemic-1.12.2-0.11.4.jar",
       "fingerprint": 4241985477,
       "fileDateHash": 1799586057,
@@ -1430,19 +1415,19 @@
       "fileSize": 1087409
     },
     {
-      "folderName": "Mantle-1.12-1.3.3.39.jar",
-      "fingerprint": 3920937836,
-      "fileDateHash": 2522008500,
+      "folderName": "PrimalCore-1.12.2-0.6.104.jar",
+      "fingerprint": 3508313194,
+      "fileDateHash": 3226018419,
       "sectionID": 6,
       "individualFingerprints": [
-        3920937836
+        3508313194
       ],
       "status": 1,
-      "timestamp": "2019-01-06T15:38:45.6125772Z",
-      "lastWriteTimeUtc": "2019-01-06T15:37:23.7718252Z",
+      "timestamp": "2019-01-06T15:38:47.7347606Z",
+      "lastWriteTimeUtc": "2019-01-06T15:37:52.0983583Z",
       "queryTimestamp": "2019-01-06T15:38:48.7071815Z",
       "fileCount": 1,
-      "fileSize": 839004
+      "fileSize": 5683907
     },
     {
       "folderName": "Bookshelf-1.12.2-2.3.569.jar",
@@ -1458,6 +1443,21 @@
       "queryTimestamp": "2019-01-06T15:38:48.7071815Z",
       "fileCount": 1,
       "fileSize": 243489
+    },
+    {
+      "folderName": "Mantle-1.12-1.3.3.39.jar",
+      "fingerprint": 3920937836,
+      "fileDateHash": 2522008500,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3920937836
+      ],
+      "status": 1,
+      "timestamp": "2019-01-06T15:38:45.6125772Z",
+      "lastWriteTimeUtc": "2019-01-06T15:37:23.7718252Z",
+      "queryTimestamp": "2019-01-06T15:38:48.7071815Z",
+      "fileCount": 1,
+      "fileSize": 839004
     },
     {
       "folderName": "CraftTweaker2-1.12-4.1.13.jar",
@@ -5115,7 +5115,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 294335,
@@ -5169,7 +5169,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 268326,
@@ -5234,7 +5234,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 246760,
@@ -5309,7 +5309,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 266550,
@@ -5363,7 +5363,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 270466,
@@ -5438,7 +5438,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     }
   ],
   "isMigrated": false,
